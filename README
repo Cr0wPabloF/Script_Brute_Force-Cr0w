@@ -1,4 +1,4 @@
-# Script_Brute_Force-Deep_Doctor
+# Script_Brute_Force-Cr0w
 ---
 PT-BR:
 Título: Script para Força Brutal
@@ -12,6 +12,14 @@ EN-US:
 Title: Script for Brute Force
 Description: Script to be used to carry out attacks, developed in Python 3.6.2, with wordlist of combinations of passwords and names most likely in PT-BR and EN-US.
 List of the most likely passwords and names in PT-BR / EN-US that can be found, respectively, at:
+- https://github.com/DeepDoctor/Script_Brute_Force-Deep_Doctor/blob/main/combinações-provaveis-top12000.txt
+- https://github.com/DeepDoctor/Script_Brute_Force-Deep_Doctor/blob/main/nomes-pt-br.txt
+- https://github.com/DeepDoctor/Script_Brute_Force-Deep_Doctor/blob/main/names-en-us.txt
+---
+RU-RU
+Название: Скрипт для грубой силы
+Описание: Скрипт, используемый для проведения атак, разработанный на Python 3.6.2, со списком комбинаций паролей и имен, наиболее вероятных в PT-BR и EN-US.
+Список наиболее вероятных паролей и имен в PT-BR / EN-US, которые можно найти, соответственно, по адресу:
 - https://github.com/DeepDoctor/Script_Brute_Force-Deep_Doctor/blob/main/combinações-provaveis-top12000.txt
 - https://github.com/DeepDoctor/Script_Brute_Force-Deep_Doctor/blob/main/nomes-pt-br.txt
 - https://github.com/DeepDoctor/Script_Brute_Force-Deep_Doctor/blob/main/names-en-us.txt
